@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background-color: aliceblue;
+}
+
+h1 {
+  background-color: #ffcc00;
+  border-radius: 5px;
+  text-align: center;
+}
+
+img {
+  float: right;
+  position: absolute;
+  top: 72%;
+  left: 10%;
+}
+
+h2 {
+  font-family: "Quicksand", sans-serif;
+  top: 90%;
+}
